@@ -1,0 +1,7 @@
+Date,System,Check,Result,Notes
+2026-10-26,Sample-Office-Network,Internet connectivity,OK,Sample entry only
+2026-10-26,Sample-File-Server,Shared drive reachable,OK,Sample entry only
+2026-10-26,Sample-Backup,Last night backup report,Needs attention,Sample entry only - follow up in the morning routine
+2026-10-26,Sample-Printer,Shared printer responds,OK,Sample entry only
+2026-10-26,Sample-Email,Test sign-in,OK,Sample entry only
+2026-10-26,Sample-Workstation,Security updates pending,Not checked,Sample entry only - check before end of day
